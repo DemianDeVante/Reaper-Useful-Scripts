@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="DemianD" commit="5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b">
-  <category name="DemianD/Cycle Actions">
+<index version="1" name="DemianD" commit="db48799867c409f46067e21166dd20569d18bc0d">
+  <category name="Demian D/Cycle Actions">
     <reapack name="Dem Cycle Arm Mode.lua" type="script" desc="Cycle track arm, unarm and auto">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -11,8 +11,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Arm%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Arm%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Automation Mode.lua" type="script" desc="Cycle track automation modes">
@@ -25,8 +25,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Automation%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Automation%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Fade In Shape No Undo Point.lua" type="script" desc="Cycle item fade in shape">
@@ -39,8 +39,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20In%20Shape%20No%20Undo%20Point.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Fade%20In%20Shape%20No%20Undo%20Point.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Fade Out Shape No Undo Point.lua" type="script" desc="Cycle item fade out shape">
@@ -53,8 +53,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20Out%20Shape%20No%20Undo%20Point.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Fade%20Out%20Shape%20No%20Undo%20Point.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Monitor Mode.lua" type="script" desc="Cycle track monitoring modes">
@@ -67,8 +67,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Monitor%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Monitor%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Track Record Mode Win.lua" type="script" desc="Cycle track record modes with visual indicator">
@@ -81,8 +81,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Track%20Record%20Mode%20Win.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Cycle%20Track%20Record%20Mode%20Win.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Toggle float for selected fx in visible chain.lua" type="script" desc="Toggle float for selected fx in visible chain">
@@ -95,8 +95,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Toggle%20float%20for%20selected%20fx%20in%20visible%20chain.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Toggle%20float%20for%20selected%20fx%20in%20visible%20chain.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Toggle MIDI Editor creating item if needed.lua" type="script" desc="Toggle MIDI Editor creating item if needed">
@@ -109,40 +109,9 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
       </version>
     </reapack>
   </category>
-  <metadata>
-    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 ReaPack Repository Template\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
-reapack-index
-}}}
- running from GitHub Actions.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the name of the repository in {\field{\*\fldinst{HYPERLINK "/index.xml"}}{\fldrslt{\ul
-index.xml
-}}}
- when using this template. This will be the name shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 \f1 <index version="1" name="Name of your repository here">\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Replace the contents of this file ({\field{\*\fldinst{HYPERLINK "/README.md"}}{\fldrslt{\ul
-README.md
-}}}
-). This will be the text shown when using ReaPack's "About this repository" feature.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 reapack-index looks for package files in subfolders. The folder tree represents the package categories shown in ReaPack.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Each package file is expected to begin with a metadata header. See {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation"}}{\fldrslt{\ul
-Packaging Documentation
-}}}
- on reapack-index's wiki.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 The URL to import in ReaPack is {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-repository-template/raw/master/index.xml"}}{\fldrslt{\ul
-https://github.com/{\f1 <your username>}/{\f1 <repository name>}/raw/master/index.xml
-}}}
-.\par}
-}
-]]></description>
-  </metadata>
 </index>
