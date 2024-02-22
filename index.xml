@@ -1,32 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
-  <category name="Example">
-    <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
+<index version="1" name="ReaPack Repository Template" commit="168a4f709656bb51a8dc5dd56f0289031bf09463">
+  <category name="DemianD/DemianD/Cycle Actions">
+    <reapack name="Dem Cycle Arm Mode.lua" type="script" desc="Cycle track arm, unarm and auto">
       <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 This is an example of a package file. It installs itself as a ReaScript that does nothing but show "Hello World!" in REAPER's scripting console.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 Packages may also include additional files specified using the @provides tag.\par}
-{\pard \ql \f0 \sa180 \li0 \fi0 This text is the documentation shown when using ReaPack's "About this package" feature. {\field{\*\fldinst{HYPERLINK "https://commonmark.org/"}}{\fldrslt{\ul
-Markdown
-}}}
- {\i formatting} is supported.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle track arm, unarm and auto\par}
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
-        <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Arm%20Mode.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Automation Mode.lua" type="script" desc="Cycle track automation modes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle track automation modes\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Automation%20Mode.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Fade In Shape No Undo Point.lua" type="script" desc="Cycle item fade in shape">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle item fade in shape\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20In%20Shape%20No%20Undo%20Point.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Fade Out Shape No Undo Point.lua" type="script" desc="Cycle item fade out shape">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle item fade out shape\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20Out%20Shape%20No%20Undo%20Point.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Monitor Mode.lua" type="script" desc="Cycle track monitoring modes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle track monitoring modes\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Monitor%20Mode.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Track Record Mode Win.lua" type="script" desc="Cycle track record modes with visual indicator">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Cycle track record modes with visual indicator, press twice to reset to no input\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Track%20Record%20Mode%20Win.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Toggle float for selected fx in visible chain.lua" type="script" desc="Toggle float for selected fx in visible chain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggle float for selected fx in visible chain\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Toggle%20float%20for%20selected%20fx%20in%20visible%20chain.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Toggle MIDI Editor creating item if needed.lua" type="script" desc="Toggle MIDI Editor creating item if needed">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggle MIDI Editor creating item if needed\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
       </version>
     </reapack>
   </category>
   <metadata>
-    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+    <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
 {\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
 \widowctrl\hyphauto
 
-{\pard \ql \f0 \sa180 \li0 \fi0 \b \fs36 ReaPack Repository Template\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 \outlinelevel0 \b \fs36 ReaPack Repository Template\par}
 {\pard \ql \f0 \sa180 \li0 \fi0 A template for GitHub-hosted ReaPack repositories with automated {\field{\*\fldinst{HYPERLINK "https://github.com/cfillion/reapack-index"}}{\fldrslt{\ul
 reapack-index
 }}}
