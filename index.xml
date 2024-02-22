@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="DemianD" commit="526621b6bf7a60b5a7f99227ccefe5d115edfcb3">
+<index version="1" name="DemianD" commit="56a504d2c208803e34dc18b97dbe3d6c902ba017">
   <category name="Demian D/Cycle Actions">
     <reapack name="Dem Cycle Arm Mode.lua" type="script" desc="Cycle track arm, unarm and auto">
       <metadata>
@@ -114,7 +114,629 @@
       </version>
     </reapack>
   </category>
-  <category name="Demian D/MIDI Editor">
+  <category name="Demian D/Looper D">
+    <reapack name="Dem Looper Arm Track for Auto Lengthen.lua" type="script" desc="Looper Mode Arm Tracks for Auto Lengthen">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Rename Tracks to toggle start their names with '\u174?' or not\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Dem%20Looper%20Arm%20Track%20for%20Auto%20Lengthen.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Looper Mode auto lengthen items.lua" type="script" desc="Looper Mode Autolengthen Items">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Auto lengthen last item in tracks whose name start with '\u174?'\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Dem%20Looper%20Mode%20auto%20lengthen%20items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Split and mute item at next measure.lua" type="script" desc="Split and mute item on next measure">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Split and mute item on next measure\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Split%20and%20mute%20item%20at%20next%20measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Split item to take 1 at next measure.lua" type="script" desc="Split item to take 1 on next measure">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Split item to take 1 on next measure\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Split%20item%20to%20take%201%20at%20next%20measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Split item to take 2 at next measure.lua" type="script" desc="Split item to take 2 on next measure">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Split item to take 2 on next measure\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Split%20item%20to%20take%202%20at%20next%20measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Split item to take 3 at next measure.lua" type="script" desc="Split item to take 3 on next measure">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Split item to take 3 on next measure\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Split%20item%20to%20take%203%20at%20next%20measure.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Split item to take 4 at next measure.lua" type="script" desc="Split item to take 4 on next measure">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Split item to take 4 on next measure\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Looper%20D/Split%20item%20to%20take%204%20at%20next%20measure.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Demian D/Media Explorer from Main">
+    <reapack name="Dem Media Play.lua" type="script" desc="Play/Stop Media Explorer file preview">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Utility for running it on the main arrange command list\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Media%20Play.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Replace Item Source with Selected Media File.lua" type="script" desc="Replace Items Source with Selected Media File">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Replace Items Source with Selected Media File\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Replace%20Item%20Source%20with%20Selected%20Media%20File.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Search Else.lua" type="script" desc="Search Else samples in media explorer that are not drums and randomize list">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Search can be tweaked at line 51\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Search%20Else.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Search Hats.lua" type="script" desc="Search Hats samples in media explorer and randomize list">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Search can be tweaked at line 51\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Search%20Hats.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Search Kicks.lua" type="script" desc="Search Kick samples in media explorer and randomize list">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Search can be tweaked at line 51\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Search%20Kicks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Search Snares.lua" type="script" desc="Search Snare samples in media explorer and randomize list">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Search can be tweaked at line 51\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Dem%20Search%20Snares.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Preview Random Sample and List within Subdirectory.lua" type="script" desc="Media Explorer randomize sample list and search all samples if searchbox empty">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Search can be tweaked at line 51\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Media%20Explorer%20from%20Main/Preview%20Random%20Sample%20and%20List%20within%20Subdirectory.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Demian D/Utilities">
+    <reapack name="Dem Auto Trim Adjacent Items.lua" type="script" desc="AutoTrim Adjacent Items (Link Item Edges when trimming)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Link Item Edges when trimming\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Auto%20Trim%20Adjacent%20Items.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Create Time Selection Left (snap if enabled).lua" type="script" desc="Create Time Selection Left (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Create Time Selection Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Create%20Time%20Selection%20Left%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Create Time Selection Right (snap if enabled).lua" type="script" desc="Create Time Selection Right (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Create Time Selection Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Create%20Time%20Selection%20Right%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Input Next.lua" type="script" desc="Cycle to next input for selected track (midi, mono, stereo)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 change input_number = 4 to the number of inputs you want\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Cycle%20Input%20Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Cycle Input Previous.lua" type="script" desc="Cycle to previous input for selected track (midi, mono, stereo)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 change input_number = 4 to the number of inputs you want\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Cycle%20Input%20Previous.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Fade In left.lua" type="script" desc="Trim fade in left">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim fade in left\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Fade%20In%20left.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Fade In right.lua" type="script" desc="Trim fade in right">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim fade in right\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Fade%20In%20right.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Fade Out  left.lua" type="script" desc="Trim fade out left">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim fade out left\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Fade%20Out%20%20left.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Fade Out  right.lua" type="script" desc="Trim fade out right">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim fade out right\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Fade%20Out%20%20right.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem FX Chain Move Down.lua" type="script" desc="Move FX down in visible chain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move FX down in visible chain\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20FX%20Chain%20Move%20Down.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem FX Chain Move Up.lua" type="script" desc="Move FX up in visible chain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move FX up in visible chain\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20FX%20Chain%20Move%20Up.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem FX Chain Select Next.lua" type="script" desc="Select next FX in visible chain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Select next FX in visible chain\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20FX%20Chain%20Select%20Next.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem FX Chain Select Previous.lua" type="script" desc="Select previous FX in visible chain">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Select previous FX in visible chain\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20FX%20Chain%20Select%20Previous.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Go to Start of Loop, Region or Project.lua" type="script" desc="Go to Start of Loop, Region or Project">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Go to Start of Loop, Region or Project\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Go%20to%20Start%20of%20Loop,%20Region%20or%20Project.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Move Edit Cursor Left (snap if enabled).lua" type="script" desc="Move Edit Cursor Left (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move Edit Cursor Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Move%20Edit%20Cursor%20Left%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Move Edit Cursor Right (snap if enabled).lua" type="script" desc="Move Edit Cursor Right (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move Edit Cursor Right (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Move%20Edit%20Cursor%20Right%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Move Edit Cursor to Nearest Item Edge in Track.lua" type="script" desc="Move Edit Cursor to Nearest Item Edge in Track">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move Edit Cursor to Nearest Item Edge in Track\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Move%20Edit%20Cursor%20to%20Nearest%20Item%20Edge%20in%20Track.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Move Item Contents Left (snap if enabled).lua" type="script" desc="Move Item Contents Left (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move Item Contents Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Move%20Item%20Contents%20Left%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Move Item Contents Right (snap if enabled).lua" type="script" desc="Move Item Contents Right (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move Item Contents Right (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Move%20Item%20Contents%20Right%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Open and Send all input to VKB.lua" type="script" desc="Toggle VKB Virtual Keyboard and send all input">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggle VKB Virtual Keyboard and send all input\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Open%20and%20Send%20all%20input%20to%20VKB.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Play Stop Selected Items Once.lua" type="script" desc="Play selected items once soloed">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Play selected items once soloed\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Play%20Stop%20Selected%20Items%20Once.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Select item under edit cursor on selected tracks.lua" type="script" desc="Select item under edit cursor on selected tracks">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Select item under edit cursor on selected tracks\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Select%20item%20under%20edit%20cursor%20on%20selected%20tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Select Next Item Across Tracks.lua" type="script" desc="Select Next Item Across Tracks (even when deleting items)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Select Next Item Across Tracks (even when deleting items)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Select%20Next%20Item%20Across%20Tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Select Previous Item Across Tracks.lua" type="script" desc="Select Previous Item Across Tracks (even when deleting items)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Select Previous Item Across Tracks (even when deleting items)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Select%20Previous%20Item%20Across%20Tracks.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Toggle global input quantize to midi editor grid.lua" type="script" desc="Toggle global input quantize to midi editor grid">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggle global input quantize to midi editor grid\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Toggle%20global%20input%20quantize%20to%20midi%20editor%20grid.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Toggle UJAM DAW Sync.lua" type="script" desc="Toggle UJAM plugins DAW sync">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggles latch and sync to tempo for ujam plugins\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Toggle%20UJAM%20DAW%20Sync.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Trim Item Left Edge Left (snap if enabled).lua" type="script" desc="Trim Item Left Edge Left (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim Item Left Edge Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Trim%20Item%20Left%20Edge%20Left%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Trim Item Left Edge Right (snap if enabled).lua" type="script" desc="Trim Item Left Edge Right (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim Item Left Edge Right (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Trim%20Item%20Left%20Edge%20Right%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Trim Item Right Edge Left (snap if enabled).lua" type="script" desc="Trim Item Right Edge Left (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim Item Right Edge Left (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Trim%20Item%20Right%20Edge%20Left%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem Trim Item Right Edge Right (snap if enabled).lua" type="script" desc="Trim Item Right Edge Right (snap if enabled)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Trim Item Right Edge Right (snap if enabled)\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/Demian%20D/Utilities/Dem%20Trim%20Item%20Right%20Edge%20Right%20(snap%20if%20enabled).lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="MIDI Editor">
     <reapack name="Dem MIDIEditor Apply FX MIDI output.lua" type="script" desc="Apply FX to item MIDI output">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -125,8 +747,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Apply%20FX%20MIDI%20output.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="midi_editor">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/MIDI%20Editor/Dem%20MIDIEditor%20Apply%20FX%20MIDI%20output.lua</source>
       </version>
     </reapack>
     <reapack name="Dem MIDIEditor Copy to Edit Cursor.lua" type="script" desc="Copy selected notes to edit cursor and row cursor">
@@ -139,8 +761,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Copy%20to%20Edit%20Cursor.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="midi_editor">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/MIDI%20Editor/Dem%20MIDIEditor%20Copy%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
     <reapack name="Dem MIDIEditor Cycle Show CC Lanes.lua" type="script" desc="Toggle show CC lanes">
@@ -153,8 +775,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Cycle%20Show%20CC%20Lanes.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="midi_editor">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/MIDI%20Editor/Dem%20MIDIEditor%20Cycle%20Show%20CC%20Lanes.lua</source>
       </version>
     </reapack>
     <reapack name="Dem MIDIEditor Move to Edit Cursor.lua" type="script" desc="Move selected notes to edit cursor and row cursor">
@@ -167,8 +789,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Move%20to%20Edit%20Cursor.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T11:40:36Z">
+        <source main="midi_editor">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/56a504d2c208803e34dc18b97dbe3d6c902ba017/MIDI%20Editor/Dem%20MIDIEditor%20Move%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
   </category>
