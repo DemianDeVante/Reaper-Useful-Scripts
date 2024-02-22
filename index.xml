@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ReaPack Repository Template" commit="168a4f709656bb51a8dc5dd56f0289031bf09463">
-  <category name="DemianD/DemianD/Cycle Actions">
+<index version="1" name="DemianD" commit="5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b">
+  <category name="DemianD/Cycle Actions">
     <reapack name="Dem Cycle Arm Mode.lua" type="script" desc="Cycle track arm, unarm and auto">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
@@ -11,8 +11,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Arm%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Arm%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Automation Mode.lua" type="script" desc="Cycle track automation modes">
@@ -25,8 +25,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Automation%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Automation%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Fade In Shape No Undo Point.lua" type="script" desc="Cycle item fade in shape">
@@ -39,8 +39,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20In%20Shape%20No%20Undo%20Point.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20In%20Shape%20No%20Undo%20Point.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Fade Out Shape No Undo Point.lua" type="script" desc="Cycle item fade out shape">
@@ -53,8 +53,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20Out%20Shape%20No%20Undo%20Point.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Fade%20Out%20Shape%20No%20Undo%20Point.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Monitor Mode.lua" type="script" desc="Cycle track monitoring modes">
@@ -67,8 +67,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Monitor%20Mode.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Monitor%20Mode.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Cycle Track Record Mode Win.lua" type="script" desc="Cycle track record modes with visual indicator">
@@ -81,8 +81,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Cycle%20Track%20Record%20Mode%20Win.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Cycle%20Track%20Record%20Mode%20Win.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Toggle float for selected fx in visible chain.lua" type="script" desc="Toggle float for selected fx in visible chain">
@@ -95,8 +95,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Toggle%20float%20for%20selected%20fx%20in%20visible%20chain.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Toggle%20float%20for%20selected%20fx%20in%20visible%20chain.lua</source>
       </version>
     </reapack>
     <reapack name="Dem Toggle MIDI Editor creating item if needed.lua" type="script" desc="Toggle MIDI Editor creating item if needed">
@@ -109,8 +109,8 @@
 }
 ]]></description>
       </metadata>
-      <version name="1.0" author="DemianD" time="2024-02-22T09:13:02Z">
-        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/168a4f709656bb51a8dc5dd56f0289031bf09463/DemianD/DemianD/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
+      <version name="1.0" author="DemianD" time="2024-02-22T09:45:36Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/5e39fdf5eb5367dcff9c963cea9693a5ef8cce4b/DemianD/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
       </version>
     </reapack>
   </category>
