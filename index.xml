@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="DemianD" commit="db48799867c409f46067e21166dd20569d18bc0d">
+<index version="1" name="DemianD" commit="526621b6bf7a60b5a7f99227ccefe5d115edfcb3">
   <category name="Demian D/Cycle Actions">
     <reapack name="Dem Cycle Arm Mode.lua" type="script" desc="Cycle track arm, unarm and auto">
       <metadata>
@@ -111,6 +111,64 @@
       </metadata>
       <version name="1.0" author="DemianD" time="2024-02-22T10:03:21Z">
         <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/db48799867c409f46067e21166dd20569d18bc0d/Demian%20D/Cycle%20Actions/Dem%20Toggle%20MIDI%20Editor%20creating%20item%20if%20needed.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="Demian D/MIDI Editor">
+    <reapack name="Dem MIDIEditor Apply FX MIDI output.lua" type="script" desc="Apply FX to item MIDI output">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Apply FX to item MIDI output\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Apply%20FX%20MIDI%20output.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem MIDIEditor Copy to Edit Cursor.lua" type="script" desc="Copy selected notes to edit cursor and row cursor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Copy selected notes to edit cursor and row cursor\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Copy%20to%20Edit%20Cursor.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem MIDIEditor Cycle Show CC Lanes.lua" type="script" desc="Toggle show CC lanes">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Toggle show CC lanes\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Cycle%20Show%20CC%20Lanes.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Dem MIDIEditor Move to Edit Cursor.lua" type="script" desc="Move selected notes to edit cursor and row cursor">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Move selected notes to edit cursor and row cursor\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="DemianD" time="2024-02-22T10:25:03Z">
+        <source main="main">https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/526621b6bf7a60b5a7f99227ccefe5d115edfcb3/Demian%20D/MIDI%20Editor/Dem%20MIDIEditor%20Move%20to%20Edit%20Cursor.lua</source>
       </version>
     </reapack>
   </category>
