@@ -1,23 +1,20 @@
-# ReaPack Repository Template
+# Demian DeVante Scripts
 
-A template for GitHub-hosted ReaPack repositories with automated
-[reapack-index](https://github.com/cfillion/reapack-index)
-running from GitHub Actions.
+Useful scripts for Reaper DAW, install through reapack with this repository:
+https://github.com/DemianDeVante/Reaper-Useful-Scripts/raw/master/index.xml
 
-Replace the name of the repository in [index.xml](/index.xml) when using this template.
-This will be the name shown in ReaPack.
+Some higlights are
 
-```xml
-<index version="1" name="Name of your repository here">
-```
+## Global input quantize
+Toggle input quantize for all tracks based on last active midi editor grid settings, use arrange view grid settings if MIDI Editor is not initiated. Support for swing. Leaves no undo points. You can modify this script to use only the arrange grid settings. 
 
-Replace the contents of this file ([README.md](/README.md)).
-This will be the text shown when using ReaPack's "About this repository" feature.
+## Autotrim adjacent items
+Usually, when trimming two adjacent items with the mouse cursor you can trim both edges at the same time, but I sually miss and trim only one edge. This script attempts to fix that by toggling an autotrim mode, where adjacent item edges always snap each other.
 
-reapack-index looks for package files in subfolders.
-The folder tree represents the package categories shown in ReaPack.
+## Autolengthen items
+I tried making a live looping system before, but saw Playtime 2 soon and decided to wait. This script is a result of that and achieves a similar behaviour to the nabla looper closed-source script. As the play cursor moves the rightmost item edges for specified tracks grow for jamming indefinitely.
 
-Each package file is expected to begin with a metadata header.
-See [Packaging Documentation](https://github.com/cfillion/reapack-index/wiki/Packaging-Documentation) on reapack-index's wiki.
+## Media explorer search scripts
+Scripts for searching defined words in Media Explorer, randomizing the resulting list. Useful for previewing random kicks, snares, hihats, or other samples quickly. You can modify these scripts to make your own search presets
 
-The URL to import in ReaPack is [https://github.com/`<your username>`/`<repository name>`/raw/master/index.xml](https://github.com/cfillion/reapack-repository-template/raw/master/index.xml).
+Among other utility scripts for more integration with midi controllers, like moving the edit cursor, item edges, contents, freely or by grid division if snap is enabled, or cycling track recording, input and monitoring modes.
